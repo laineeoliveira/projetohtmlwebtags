@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Curso HTML DIO.me</title>
+</head>
+<body>
+    <h1 id="inicio"><strong>A internet e o HTML</strong></h1>
+    <hr />
+    <h2>Índice</h2>
+    <ul>
+        <li><a href="#historia">História da web</a></li>
+        <li><a href="#client-server">Client-Server</a></li>
+        <li><a href="#tags">HTML e algumas tags</a></li>
+        <li><a href="#referencias">Referências</a></li>
+    </ul>
+
+    <h2 id="historia">História da web</h2>
+    <small><a href="#inicio">(voltar)</a></small>
+    <p></p>
+
+    <h2 id="client-server">Client-Server</h2>
+    <small><a href="#inicio" a>(voltar)</a></small>
+    <p></p>
+
+    <h2 id="tags">HTML e algumas tags</h2>
+    <small><a href="#inicio" a>(voltar)</a></small>
+    <p></p>
+
+    <h2 id="referencias">Referências</h2>
+    <small><a href="#inicio" a>(voltar)</a></small>
+    <p></p>
+
+</body>
+</html>
