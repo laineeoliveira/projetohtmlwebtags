@@ -29,32 +29,28 @@ Para facilitar a compreensão sobre a evolução e os principais computadores, a
     <ul>
         <li><strong>2ª geração (1959-1965):</strong></li>
         <p><a href="https://www.census.gov/history/img/univacphoto.jpg" target="_blank" title="clique aqui para ver o UNIVAC I">UNIVAC I (1959)</a></p>
-        <p>Diminuição do tamanho dos computadores graças a substituição do uso das vávulas pelos <a href="https://miro.medium.com/v2/resize:fit:1276/1*x3JN-9duFw2Gt4eNQKhLmQ.jpeg" target="_blank" title="veja a comparação entre a válvula e o transístor">transístores</a></p> 
-    
+        <p>Diminuição do tamanho dos computadores graças a substituição do uso das vávulas pelos <a href="https://miro.medium.com/v2/resize:fit:1276/1*x3JN-9duFw2Gt4eNQKhLmQ.jpeg" target="_blank" title="veja a comparação entre a válvula e o transístor">transístores.</a></p>    
     </ul>
     <ul>
         <li><strong>3ª geração (1965-1970):</strong></li>
-        <p><a href="https://www.census.gov/history/img/univacphoto.jpg" target="_blank" title="clique aqui para ver o UNIVAC I">UNIVAC I (1959)</a></p>
-        <p>Desenvolvimento dos chips ou circuitos integrados (transístor, capacitores e resistores)</a></p> 
-    
+        <p><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/DM_IBM_S360.jpg/800px-DM_IBM_S360.jpg" target="_blank" title="clique aqui para ver o IBM System/360">IBM System/360</a></p>
+        <p>Desenvolvimento dos chips ou circuitos integrados (transístor, capacitores e resistores); melhor acesso aos arquivos com a utilização dos disquetes, fitas magnéticas e a invenção do mouse; uso dos computadores na corrida espacial durante a Guerra Fria; surgimento das primeiras linguagens de programação de alto nível. </a></p> 
     </ul>
     <ul>
-        <li><strong>4ª geração (a partir de 1971):</strong></li>
-        <p><a href="https://www.census.gov/history/img/univacphoto.jpg" target="_blank" title="clique aqui para ver o UNIVAC I">UNIVAC I (1959)</a></p>
-        <p>Micro processadores, PC's, computadores portáteis</a></p> 
-    
+        <li><strong>4ª geração (a partir de 1971 até os dias atuais):</strong></li>
+        <p>Surgimento do microprocessador da Intel, da Apple, da Arpanet, do sistema operacional MS-DOS, PC's, computadores portáteis, internet das coisas.</a></p> 
     </ul>
     <ul>
-        <li><strong>5ª geração (dias atuais):</strong></li>
-            <p><a href="https://www.census.gov/history/img/univacphoto.jpg" target="_blank" title="clique aqui para ver o UNIVAC I">UNIVAC I (1959)</a></p>
-            <p>Computadores quânticos, IA, criptomoedas, metaverso</a></p> 
-        
-        </ul>
+        <li><strong>5ª geração (dias atuais e próximos desenvolvimentos):</strong></li>
+        <p>Computadores quânticos, IA, criptomoedas, metaverso.</a></p>   
+    </ul>
+
+    <p>Antes da existência da internet utilizava-se o código Morse e depois surgiu o telegráfo como sistema de comunicação intercontinental através de uma rede de cabos. Durante a Guerra Fria em meio ao surgimento e desenvolvimento dos computadores, surgiu a Darpa e a teorização de Joseph Licklider sobre uma comunicação entre redes e a partir de então criou-se a Arpanet. Viton Cerf e Robert Kahn implantaram o protocolo TCP/IP e outras nets com fins de comunicação científica e militar foram surgindo, como a NASA, o NSFNET, a MILNET, até que Tim Berners-Lee criou o primeiro navegador Worl Wide Web (WWW), popularizando assim a web.</p>
 
 
     <h2 id="client-server">Client-Server</h2>
     <small><a href="#inicio" a>(voltar)</a></small>
-    <p></p>
+    <p>As funcionalidades da internet se dão baseadas na comunicação interligada dos dispositivos conhecidos como clients e servers. Os servers (ou servidores) hospedam os arquivos e informações dos sites através de protocolos solicitados do e para os clients (usuários), que consomem essas informações através de uma aplicação web. Os arquivos enviados dos servidores são conhecidos como arquivos estáticos (html, javascript, etc), interpretados pelos clients através dos navegadores (browsers).</p>
 
     <h2 id="tags">HTML e algumas tags</h2>
     <small><a href="#inicio" a>(voltar)</a></small>
@@ -62,9 +58,12 @@ Para facilitar a compreensão sobre a evolução e os principais computadores, a
 
     <h2 id="referencias">Referências</h2>
     <small><a href="#inicio" a>(voltar)</a></small>
-    <p><a href="https://chsi.harvard.edu/harvard-ibm-mark-1-futurism" target="_blank">Coleção de Instrumentos Científicos de Harvard - Mark I: Futurismo</a></p>
-    <p><a href="https://www.census.gov/history/www/innovations/technology/univac_i.html" target="_blank">Census.gov - UNIVAC I</a></p>
-
+    <ol>
+        <li><a href="https://chsi.harvard.edu/harvard-ibm-mark-1-futurism" target="_blank">Coleção de Instrumentos Científicos de Harvard - Mark I: Futurismo</a></li>
+        <li><a href="https://www.census.gov/history/www/innovations/technology/univac_i.html" target="_blank">census.gov - UNIVAC I</a></li>
+        <li><a href="https://www.w3.org/" target="_blank">W3c</a></li>
+        <li><a href="https://www.microsoft.com/" target="_blank">Microsoft</a></li>    
+    </ol>
 
 
 </body>
