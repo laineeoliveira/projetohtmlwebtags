@@ -50,21 +50,56 @@ Para facilitar a compreensão sobre a evolução e os principais computadores, a
 
     <h2 id="client-server">Client-Server</h2>
     <small><a href="#inicio" a>(voltar)</a></small>
-    <p>As funcionalidades da internet se dão baseadas na comunicação interligada dos dispositivos conhecidos como clients e servers. Os servers (ou servidores) hospedam os arquivos e informações dos sites através de protocolos solicitados do e para os clients (usuários), que consomem essas informações através de uma aplicação web. Os arquivos enviados dos servidores são conhecidos como arquivos estáticos (html, javascript, etc), interpretados pelos clients através dos navegadores (browsers).</p>
-
+    <p>As funcionalidades da internet se dão baseadas na comunicação interligada dos dispositivos e softwares conhecidos como clients e servers. Os servers (ou servidores) hospedam os arquivos e informações dos sites em bancos de dados através de protocolos solicitados do e para os clients (usuários), que consomem essas informações através de uma aplicação web e navegadores (browsers). Os arquivos enviados dos servidores são conhecidos como arquivos estáticos (html, javascript, etc).</p>
+    <p>Existem as linguagens de programação que são executadas no servidor, como Java, PHP, Ruby, etc, e as linguagens executadas no client, como o Javascript, que utiliza o interpretador V8.</p> 
+    
     <h2 id="tags">HTML e algumas tags</h2>
     <small><a href="#inicio" a>(voltar)</a></small>
-    <p></p>
+    <p>O HTML (Hiper Text Markup Language) é um tipo de arquivo de marcação delimitada de texto utilizado para construção de sites e interpretados nos navegadores, comumente confundidos com uma linguagem de programação.</p>
+    <p>Os delimitadores do HTML são os sinais de menor < e maior >, com utilização de tags com funções específicas de formatação de textos, imagens, videos, links, etc.</p>
+    <p>Qualquer editor de textos serve para desenvolver sites HTML, no curso da Dio o <a href="https://code.visualstudio.com/" target="_blank">Visual Code</a> e o navegador Google Chrome são utilizados pois eles tem ferramentas mais completas.</p>
+    <p><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVcphP8rehHRH4qTrFDEMkuq45XR2OdGmgAg&usqp=CAU" target="_blank" title="veja aqui a estrutura básica HTML"> A estrutura básica do HTML</a> compõe-se das tags html, head (cabeça), que pré carrega informações da página, title (título) e body (corpo), que é onde aparece o contéudo para os usuários.</p>
+    <ul>
+        <li><strong>Tags HTML:</strong></li>
+        <p>- h: tamanho do texto para títulos, subtítulos, etc. de h1 a h6.</p>
+        <p>- p: paragráfos.</p>
+        <p>- blockquote: citação.</p>
+        <p>- u: <u>underline</u>.</p>
+        <p>- i: <i>ítalico</i>.</p>
+        <p>- strong: <strong>negrito</strong>.</p>
+        <p>- mark: <mark>marcar o texto</mark>.</p>
+        <p>- sup: elevação de número, letra, etc. asterisco<sup>*</sup>.</p>
+        <p>- small: texto <small>pequeno</small>.</p>
+        <p>- ol: listas ordenadas, numéricas.</p>
+        <p>- ul: listas desordenadas, em bolinhas.</p>
+        <p>- li: itens da lista.</p>
+        <p>- a: ancoragem de links, endereços de sites</p>
+        <p>- input: criar um campo digitável <input type="button">.</p>
+        <p>- img: inserir imagem.</p>
+
+        <li><strong>Atritubos de tags</strong></li>
+        <p>- type: atributo da tag input para indicação do tipo de campo, texto, numérico, cor, etc.</p>
+        <p>- id: identificador utilizado no js para mudar o contéudo de algum elemento.</p>
+        <p>- class e style: voltado para padronizar e colocar comando do css no elemnto.</p>
+        <p>- src: endereço de imagens.</p>
+        <p>- width: mudar a largura</p>
+        <p>- href: endereço de sites para a tag a.</p>
+        <p>- target _blank: utilizado para abrir páginas em outras abas.</p>
+        <p>- target title: texto explicativo para link de site.</p>
+        <p>- href:"#": cria identificar de rolagem direcionada.</p>
+
+    </ul>
 
     <h2 id="referencias">Referências</h2>
     <small><a href="#inicio" a>(voltar)</a></small>
     <ol>
         <li><a href="https://chsi.harvard.edu/harvard-ibm-mark-1-futurism" target="_blank">Coleção de Instrumentos Científicos de Harvard - Mark I: Futurismo</a></li>
         <li><a href="https://www.census.gov/history/www/innovations/technology/univac_i.html" target="_blank">census.gov - UNIVAC I</a></li>
-        <li><a href="https://www.w3.org/" target="_blank">W3c</a></li>
-        <li><a href="https://www.microsoft.com/" target="_blank">Microsoft</a></li>    
+        <li><a href="https://www.microsoft.com/" target="_blank">Microsoft</a></li> 
+        <li><a href="https://www.w3.org/" target="_blank">W3c</a></li>   
+        <li><a href="https://www.youtube.com/watch?v=3oSIqIqzN3M" target="_blank">5 minutos de HTML para iniciar em programação"</a>
+        <li><a href="https://www.dio.me/target="_blank">DIO.me</a>
     </ol>
-
 
 </body>
 </html>
